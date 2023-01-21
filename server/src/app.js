@@ -10,7 +10,7 @@ const accountStatsRoute = require("./routes/accountStatsRoute/accountStatsRoute"
 
 const app = express();
 
-//env
+//env  
 dotenv.config();
 // DB connect
 dbConnect();
